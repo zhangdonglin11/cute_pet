@@ -1,0 +1,26 @@
+spring:
+  datasource:
+    username: root
+    password: 123456
+    url: jdbc:mysql://localhost:3306/pet_db
+  # 配置项目静态文件保存位置
+  web:
+    resources:
+      static-locations: file:D://diploma_project/cute_pet_static_file
+  # 配置最大上传文件
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+# 设置session 存在时间 秒servlet.session.timeout=300 # 单位为秒
+server:
+  port: 8088
+  servlet:
+    session:
+      timeout: 300
+
+mybatis-plus:
+  configuration:
+    useGeneratedKeys: true
+    mapUnderscoreToCamelCase: true
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.cute_pet.mapper.PhoneCodeMapper">
+
+    <resultMap id="BaseResultMap" type="com.example.cute_pet.domain.PhoneCode">
+            <id property="phone" column="phone" jdbcType="VARCHAR"/>
+            <result property="code" column="code" jdbcType="VARCHAR"/>
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        phone,code
+    </sql>
+</mapper>

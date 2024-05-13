@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.cute_pet.mapper.PetMapper">
+
+    <resultMap id="BaseResultMap" type="com.example.cute_pet.domain.Pet">
+            <id property="id" column="id" jdbcType="INTEGER"/>
+            <result property="petType" column="pet_type" jdbcType="INTEGER"/>
+            <result property="petVariety" column="pet_variety" jdbcType="VARCHAR"/>
+            <result property="petNick" column="pet_nick" jdbcType="VARCHAR"/>
+            <result property="petSex" column="pet_sex" jdbcType="VARCHAR"/>
+            <result property="petAge" column="pet_age" jdbcType="VARCHAR"/>
+            <result property="petAddress" column="pet_address" jdbcType="VARCHAR"/>
+            <result property="petStatus" column="pet_status" jdbcType="VARCHAR"/>
+            <result property="experience" column="experience" jdbcType="VARCHAR"/>
+            <result property="petOwner" column="pet_owner" jdbcType="VARCHAR"/>
+            <result property="userId" column="user_id" jdbcType="INTEGER"/>
+            <result property="status" column="status" jdbcType="INTEGER"/>
+            <result property="createTime" column="create_time" jdbcType="TIMESTAMP"/>
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        id,pet_type,pet_variety,
+        pet_nick,pet_sex,pet_age,
+        pet_address,pet_status,experience,
+        pet_owner,user_id,status,
+        create_time
+    </sql>
+</mapper>
