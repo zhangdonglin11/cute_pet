@@ -45,7 +45,7 @@ cute_pet
 
    在idea编辑器打开项目中的pom.xml文件，点击右上角的按钮下载依赖
 
-   ![](D:\diploma_project\cute_pet\img\updateMaven.png)
+   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/updateMaven.png)
 
    使用介绍省略......
 
@@ -53,36 +53,36 @@ cute_pet
 
    启动
 
-   ![](D:\diploma_project\cute_pet\img\start.png)
+   ![](https://raw.githubusercontent.com/JasonZhang1124/cute_pet/main/img/start.png)
 
    #### 小程序端效果展示
 
-   ![](D:\diploma_project\cute_pet\img\index.png)
+   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/index.png)
 
-   ![](D:\diploma_project\cute_pet\img\topic.png)
+   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/topic.png)
 
-   ![](D:\diploma_project\cute_pet\img\topicAdd.png)
+   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/topicAdd.png)
 
-   ![](D:\diploma_project\cute_pet\img\message.png)
+   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/message.png)
 
-   ![](D:\diploma_project\cute_pet\img\messageDetail.png)
+   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/messageDetail.png)
 
-   ![](D:\diploma_project\cute_pet\img\user.png)
+   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/user.png)
 
-   ![](D:\diploma_project\cute_pet\img\userUpdate.png)
+   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/userUpdate.png)
 
-   ![](D:\diploma_project\cute_pet\img\petDetail.png)
+   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/petDetail.png)
 
-   ![](D:\diploma_project\cute_pet\img\petAdd.png)
+   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/petAdd.png)
 
    
 
    #### 后台管理效果展示
 
-   ![](D:\diploma_project\cute_pet\img\adminIndex.png)
+   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/adminIndex.png)
 
-   ![](D:\diploma_project\cute_pet\img\adminPet.png)
+   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/adminPet.png)
 
    
 
-   ![](D:\diploma_project\cute_pet\img\adminUser.png)
+   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/adminUser.png)
