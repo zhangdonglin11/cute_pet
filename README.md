@@ -38,7 +38,7 @@ cute_pet
 1. 将项目克隆到本地
 
    ```
-   
+   git clone https://github.com/JasonZhang1124/cute_pet.git
    ```
 
 2. 下载依赖
