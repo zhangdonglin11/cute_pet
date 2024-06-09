@@ -38,14 +38,14 @@ cute_pet
 1. 将项目克隆到本地
 
    ```
-   git clone https://github.com/JasonZhang1124/cute_pet.git
+   git clone https://github.com/zhangdonglin11/cute_pet.git
    ```
 
 2. 下载依赖
 
    在idea编辑器打开项目中的pom.xml文件，点击右上角的按钮下载依赖
 
-   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/updateMaven.png)
+   ![](https://github.com/zhangdonglin11/cute_pet/blob/main/img/updateMaven.png)
 
    使用介绍省略......
 
@@ -53,36 +53,36 @@ cute_pet
 
    启动
 
-   ![](https://raw.githubusercontent.com/JasonZhang1124/cute_pet/main/img/start.png)
+   ![](https://raw.githubusercontent.com/zhangdonglin11/cute_pet/main/img/start.png)
 
    #### 小程序端效果展示
 
-   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/index.png)
+   ![](https://github.com/zhangdonglin11/cute_pet/blob/main/img/index.png)
 
-   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/topic.png)
+   ![](https://github.com/zhangdonglin11/cute_pet/blob/main/img/topic.png)
 
-   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/topicAdd.png)
+   ![](https://github.com/zhangdonglin11/cute_pet/blob/main/img/topicAdd.png)
 
-   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/message.png)
+   ![](https://github.com/zhangdonglin11/cute_pet/blob/main/img/message.png)
 
-   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/messageDetail.png)
+   ![](https://github.com/zhangdonglin11/cute_pet/blob/main/img/messageDetail.png)
 
-   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/user.png)
+   ![](https://github.com/zhangdonglin11/cute_pet/blob/main/img/user.png)
 
-   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/userUpdate.png)
+   ![](https://github.com/zhangdonglin11/cute_pet/blob/main/img/userUpdate.png)
 
-   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/petDetail.png)
+   ![](https://github.com/zhangdonglin11/cute_pet/blob/main/img/petDetail.png)
 
-   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/petAdd.png)
+   ![](https://github.com/zhangdonglin11/cute_pet/blob/main/img/petAdd.png)
 
    
 
    #### 后台管理效果展示
 
-   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/adminIndex.png)
+   ![](https://github.com/zhangdonglin11/cute_pet/blob/main/img/adminIndex.png)
 
-   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/adminPet.png)
+   ![](https://github.com/zhangdonglin11/cute_pet/blob/main/img/adminPet.png)
 
    
 
-   ![](https://github.com/JasonZhang1124/cute_pet/blob/main/img/adminUser.png)
+   ![](https://github.com/zhangdonglin11/cute_pet/blob/main/img/adminUser.png)
